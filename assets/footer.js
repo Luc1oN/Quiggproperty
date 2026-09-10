@@ -3,7 +3,7 @@ document.getElementById('site-footer').innerHTML = `
     <div class="footer-grid">
       <div>
         <div class="footer-brand">
-          <img src="assets/logo-mark-plate.jpg" alt="Quigg Property">
+          <img src="assets/logo-mark.png" alt="Quigg Property">
           <strong>QUIGG PROPERTY</strong>
         </div>
         <p style="max-width:320px;">Trusted locally, connected globally, powered by Keller Williams. Guiding Cork Harbour buyers, sellers and renters home since day one.</p>
